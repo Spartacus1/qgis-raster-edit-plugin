@@ -1,0 +1,7 @@
+[general]
+name=RasterEditPlugin
+qgisMinimumVersion=3.10
+author=Renato Henriques
+description=Plugin to edit raster zones with manual suppression and interpolation
+version=0.1
+email=rhenriques@dct.uminho.pt
